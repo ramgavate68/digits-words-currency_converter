@@ -1,0 +1,23 @@
+{
+  "name": "digits-words-currency_converter",
+  "version": "1.0.0",
+  "description": "an npm package to convert numbers to words in a JavaScript website or any javaScript Code specifically currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramgavate68/digits-words-currency_converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rambhau Gavate",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ramgavate68/digits-words-currency_converter/issues"
+  },
+  "homepage": "https://github.com/ramgavate68/digits-words-currency_converter#readme"
+}
